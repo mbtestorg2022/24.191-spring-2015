@@ -118,7 +118,7 @@ Military Spending, Federal Spending; Universities' Research Budgets and Dollars 
 {{< tdopen >}}
 
 
-Ghoshroy, Subrata. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The 'Star Wars' Project — My Struggle as a Participant and My Decision to Blow the Whistle." (PDF - 1.4MB)](https://radius.mit.edu/sites/default/files/documents/Subrata%20Ghoshroy's%20%2522Star%20Wars%2522.pdf) 2015.
+Ghoshroy, Subrata. ["The 'Star Wars' Project — My Struggle as a Participant and My Decision to Blow the Whistle." (PDF - 1.4MB)](https://radius.mit.edu/sites/default/files/documents/Subrata%20Ghoshroy's%20%2522Star%20Wars%2522.pdf) 2015.
 
 Gillis, Justin. "[Bill Gates and Other Business Leaders Urge U.S. to Increase Energy Research](http://www.nytimes.com/2015/02/24/us/top-us-business-leaders-urge-increased-energy-research.html?_r=1)," _New York Times_, February 23, 2015.
 
