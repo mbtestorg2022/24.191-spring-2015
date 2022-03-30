@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 992b4fef-d7ac-adf4-88c1-7ee96924f948
 resourcetype: Image
 title: 30-approx.png
 uid: 25038f18-1328-cb68-19e5-bf702d7973ae
